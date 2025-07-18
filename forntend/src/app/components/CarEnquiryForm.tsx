@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect, useRef } from "react";
 import { Car, Mail, Phone, MapPin, AlertCircle, ChevronDown } from "lucide-react";
 import AnimatedButton from "./AnimatedButton";
