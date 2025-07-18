@@ -1,3 +1,4 @@
+'use client'
 import React from "react";
 import { FaFacebookF, FaYoutube, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
 // import hyundaiLogo from "../assets/hyundai-logo-white.png"; // Left logo
